@@ -1,0 +1,6 @@
+[[language]]
+name = "c"
+scope = "source.c"
+comment-token = "//"
+indent = { tab-width = 4, unit = "    " }
+language-servers = [ "clangd" ]
