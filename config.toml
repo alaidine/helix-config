@@ -7,6 +7,7 @@ mouse = false
 middle-click-paste = true
 cursorline = true
 auto-completion = true
+bufferline = "multiple"
 
 [editor.cursor-shape]
 insert = "bar"
