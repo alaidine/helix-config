@@ -1,4 +1,4 @@
-theme = "gruvbox_transparent"
+theme = "catppuccin_mocha_transparent"
 
 [editor]
 line-number = "relative"
